@@ -1,0 +1,36 @@
+# ===== 逆向素材（体积大 / 含第三方 APK 与抓包，不入库）=====
+apk/
+captures/
+
+# ===== 凭据（含真实登录 token，绝不入库）=====
+poc/.token.json
+*.token.json
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+
+# ===== Android / Gradle =====
+.gradle/
+build/
+app/build/
+app/app/build/
+local.properties
+build-out.log
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# ===== IDE / 编辑器 =====
+.idea/
+*.iml
+.vscode/
+*.swp
+.DS_Store
+
+# ===== 临时文件 =====
+*.tmp
+*.log
+!poc/requirements.txt

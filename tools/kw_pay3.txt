@@ -1,0 +1,5 @@
+formatPayway
+getPayArgumentsReq
+aliPayAuth
+chooseSign
+payByChannel

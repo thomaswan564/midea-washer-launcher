@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 外圈：洗衣机滚筒 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26a28,28 0 1,0 0.001,0z" />
+    <!-- 内圈挖空（背景色） -->
+    <path
+        android:fillColor="#0B57D0"
+        android:pathData="M54,38a16,16 0 1,0 0.001,0z" />
+    <!-- 水滴 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,44c4.4,6.1 6.6,9.4 6.6,12.1a6.6,6.6 0 0,1 -13.2,0c0,-2.7 2.2,-6 6.6,-12.1z" />
+
+</vector>

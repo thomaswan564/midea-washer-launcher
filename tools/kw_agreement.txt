@@ -1,0 +1,13 @@
+paymentSignGuide
+paymentSignedShowWay
+paymentSignedContent
+isPaymentSignAgreen
+entrustPaySign
+updateBindCardInfo
+bindCardStatus
+签约
+免密
+代扣
+agreement
+signAgreement
+paySign

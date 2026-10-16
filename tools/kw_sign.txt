@@ -1,0 +1,8 @@
+entrustPaySign
+updateBindCardInfo
+bindCardStatus
+paymentSignGuide
+paymentSignedShowWay
+paymentSignedContent
+unionPayDirectLogo
+app/unionPay

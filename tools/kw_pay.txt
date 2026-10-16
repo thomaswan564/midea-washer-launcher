@@ -1,0 +1,9 @@
+getPaymentArgs
+entrustPaySign
+bindAlipayAccountReq
+getAlipayAuthInfoReq
+getUserAlipayAccountReq
+ujingAlipay
+chooseSign
+paymentSigned
+isPaymentSignAgreen

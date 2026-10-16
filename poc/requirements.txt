@@ -1,0 +1,3 @@
+# U净 开源客户端 PoC 依赖
+requests>=2.31
+bleak>=0.22

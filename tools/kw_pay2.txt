@@ -1,0 +1,7 @@
+getPaymentArgs
+getPayArguments
+getAlipayAuthInfoReq
+bindAlipayAccountReq
+getUserAlipayAccountReq
+getPayWayListReq
+payStatusCommon

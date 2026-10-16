@@ -1,0 +1,17 @@
+bluetooth
+startBluetoothDevicesDiscovery
+onBluetoothDeviceFound
+createBLEConnection
+notifyBLECharacteristicValueChange
+writeBLECharacteristicValue
+readBLECharacteristicValue
+serviceId
+characteristicId
+closeBLEConnection
+openBluetoothAdapter
+getBluetoothAdapterState
+getBLEDeviceServices
+getBLEDeviceCharacteristics
+requireModule
+unlock
+开锁
